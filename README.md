@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="facility-glossary-notes" width="100%"></p>
+
 # facility-glossary-notes
 
 Ten facility and maintenance terms (MTBF, MTTR, availability, PM compliance, reactive ratio, backlog, cost per square foot, FCI, EUI and service level) explained in plain words, each with its formula and a worked example that actually runs.
