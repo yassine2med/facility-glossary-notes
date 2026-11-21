@@ -2,6 +2,8 @@
 
 # facility-glossary-notes
 
+[![CI](https://github.com/yassine2med/facility-glossary-notes/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/facility-glossary-notes/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Ten facility and maintenance terms (MTBF, MTTR, availability, PM compliance, reactive ratio, backlog, cost per square foot, FCI, EUI and service level) explained in plain words, each with its formula and a worked example that actually runs.
 
 ![Screenshot](docs/screenshot.png)
